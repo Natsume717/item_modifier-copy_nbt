@@ -1,2 +1,2 @@
 # item_modifier-set_nbt
-item_modifierのset_nbtに関するサンプルになります。
+item_modifierのcopy_nbtに関するサンプルになります。
