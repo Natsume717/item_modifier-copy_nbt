@@ -1,0 +1,8 @@
+{
+    "values":[
+         "sample:set_storage",
+         "sample:give_weapon",
+         "sample:give_furnace",
+         "sample:give_spawn_egg"
+    ]
+}

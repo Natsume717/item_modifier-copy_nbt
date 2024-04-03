@@ -1,0 +1,1 @@
+give @a furnace 5
